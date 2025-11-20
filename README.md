@@ -4,6 +4,6 @@ Team SystemsCBLab contribution to [First DREAM Target 2035 Drug Discovery Challe
 Members:
 - Sheerin Irfanaa
 - Ida P Titus
-- Ashok Palaniappan, PhD [PI]
+- Ashok Palaniappan, PhD [Principal Investigator]
 
-Contact: [Ashok Palaniappan](mailto: apalania@scbt.sastra.edu)
+Contact: [mailto: Ashok Palaniappan](apalania@scbt.sastra.edu)
