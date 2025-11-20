@@ -6,4 +6,6 @@ Members:
 - Ida P Titus
 - Ashok Palaniappan, PhD [Principal Investigator]
 
+Licensed under GNU GPL3.0
+
 Contact: [Ashok Palaniappan](mailto:apalania@scbt.sastra.edu)
