@@ -1,2 +1,9 @@
 # DREAM Target 2035 - Drug-Discovery
-Team SystemsCBLab contribution to First DREAM Target 2035 Drug Discovery Challenge
+Team SystemsCBLab contribution to [First DREAM Target 2035 Drug Discovery Challenge](https://www.synapse.org/Synapse:syn65660836/wiki/631410)
+
+Members:
+- Sheerin Irfanaa
+- Ida P Titus
+- Ashok Palaniappan, PhD [PI]
+
+Contact: [Ashok Palaniappan](mailto: apalania@scbt.sastra.edu)
