@@ -6,4 +6,4 @@ Members:
 - Ida P Titus
 - Ashok Palaniappan, PhD [Principal Investigator]
 
-Contact: [mailto: Ashok Palaniappan](apalania@scbt.sastra.edu)
+Contact: [Ashok Palaniappan](mailto:apalania@scbt.sastra.edu)
