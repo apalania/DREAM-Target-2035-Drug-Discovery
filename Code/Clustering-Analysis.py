@@ -26,7 +26,7 @@ distmat = [1-sim_matrix[i,j] for i in range(n) for j in range(n)]
 
 distmat = np.array(distmat).reshape(n,n)
 
-css = cluster.AgglomerativeClustering(distance_threshold=0.32, linkage = 'complete',n_clusters=None).fit(distmat)
+css = cluster.AgglomerativeClustering(distance_threshold=0.32, linkage = 'complete',n_clusters=None, metric='precomputed').fit(distmat)
 
 print(css.labels_)
 print(css.n_clusters_)
