@@ -1,10 +1,12 @@
 # DREAM Target 2035 - Drug-Discovery
 Team SystemsCBLab contribution to [First DREAM Target 2035 Drug Discovery Challenge](https://www.synapse.org/Synapse:syn65660836/wiki/631410)
 
-Members:
+Team Manager:
+- Ashok Palaniappan, PhD 
+
+Team Members:
 - Sheerin Irfanaa
 - Ida P Titus
-- Ashok Palaniappan, PhD [Principal Investigator]
 
 Contents licensed under GNU GPL3.0
 
