@@ -10,4 +10,7 @@ Team Members:
 
 Contents licensed under GNU GPL3.0
 
+# Acknowledgments
+Gratefully acknowledge the award of Google TPU Research Cloud credits to 'APalaniaLab' for the execution of this project.
+
 Contact: [Ashok Palaniappan](mailto:apalania@scbt.sastra.edu)
